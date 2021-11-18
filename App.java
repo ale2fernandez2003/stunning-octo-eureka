@@ -1,4 +1,6 @@
 Alejandro Fernández Fernández
+Estoy viviendo en Leon
+Mi color favorito es el rojo
 public class App {
   
   public static void main(String[] args) {
